@@ -106,4 +106,4 @@ dmypy.json
 .pyre/
 
 .streamlit/secrets.toml
-credentials.josn
+credentials.json
